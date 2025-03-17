@@ -1,21 +1,25 @@
-MIT License
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License (with Commercial Use Restrictions)
 
 Copyright (c) 2025 Cobalt-X
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+of this software and associated documentation files (the "Software"), to use, copy, modify, merge, publish, distribute, sublicense, and/or update the Software, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+1. **Attribution:** You must provide appropriate credit to the original author(s) of the Software. This includes indicating any modifications made to the Software and not implying that the author(s) endorse your use unless explicitly provided. The attribution should not be misleading and should be in a form that reasonably fits the medium or means you are using.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+2. **Non-commercial Use Only:** The Software is made available for **non-commercial purposes only**. You may **not** use, copy, modify, redistribute, or make any commercial use of the Software, including but not limited to:
+   - Using the Software in any product, service, or platform for which monetary profit is gained.
+   - Re-uploading, rebranding, redistributing, or otherwise profiting from the Software in any manner.
+   - Incorporating the Software into any service or product for which you charge or collect revenue.
+
+   If you wish to use the Software for **commercial purposes** (i.e., to generate profit, including re-uploading or rebranding for sale), you must obtain **separate permission** from the copyright holders under a commercial license. A commercial license is available upon request and can be obtained from the authors of the Software. **For commercial licensing inquiries, please contact ide@cobaltx.xyz**
+
+3. **ShareAlike:** If you modify or create derivative works from the Software, you must distribute the resulting work under the same Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. This ensures that any derivative works are also not for commercial use and remain freely available under the same terms.
+
+4. **No Warranty:** The Software is provided "AS IS", without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and non-infringement. In no event shall the authors or copyright holders be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+5. **Redistribution and Modification:** You are free to distribute and modify the Software for personal, educational, or non-commercial purposes, but you must ensure that:
+   - Any copies or modified versions of the Software include this full license and all copyright and attribution notices.
+   - If you distribute modified versions, you must clearly state the changes you made and ensure the modified Software also complies with this license.
+
+By using, copying, modifying, or distributing the Software, you agree to abide by the terms and conditions of this license.
